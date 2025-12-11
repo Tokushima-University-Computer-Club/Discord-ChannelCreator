@@ -1,4 +1,4 @@
-# Discord Channel Creator (tucc)
+# Discord Channel Creator
 
 特定のチャンネルに投稿されたメッセージを検知し、そのメッセージ内容をチャンネル名として新しいテキストチャンネルを自動で作成するDiscordBotです。
 
